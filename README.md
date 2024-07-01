@@ -29,6 +29,10 @@
 ## Installation
 
 ```bash
+$ yarn add @nestjs/typeorm typeorm mysql2
+```
+
+```bash
 $ yarn install
 ```
 
